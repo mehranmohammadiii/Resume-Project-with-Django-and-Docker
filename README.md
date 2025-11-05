@@ -55,12 +55,12 @@ Make sure you have Git and Docker (with Docker Compose) installed on your system
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+    git clone https://github.com/mehranmohammadiii/Resume-Project-with-Django-and-Docker
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd YOUR_REPO_NAME
+    cd Resume-Project-with-Django-and-Docker
     ```
 
 3.  **Create a local environment file:**
@@ -86,13 +86,5 @@ Make sure you have Git and Docker (with Docker Compose) installed on your system
     ```sh
     docker compose down
     ```
-
----
-
-## 🎨 Credits & Acknowledgements
-
-This project was built upon an excellent foundation provided by **hadimh**. A huge thank you for the original UI/UX design and the React frontend implementation.
-
-*   Check out the original creator's profile on GitHub: **[hadimh](https://github.com/hadimh)**
 
 ---
