@@ -18,7 +18,7 @@ A full-stack, containerized personal resume and portfolio application. This proj
 
 This project was built upon an excellent foundation provided by **hadimh**. A huge thank you for the original UI/UX design and the React frontend implementation.
 
-*   Check out the original creator's profile on GitHub: **[hadimh](https://github.com/hadimh)**
+*   Check out the original creator's profile on GitHub: **[hadimh](https://github.com/hadiMh)**
 
 ---
 
