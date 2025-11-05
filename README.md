@@ -1,9 +1,11 @@
 # Dockerized Django + React Resume/Portfolio
 
 <p align="center">
-  <img src="URL_TO_YOUR_MAIN_PAGE_IMAGE" alt="Main Page Screenshot" width="45%">
+  <img src="https://github.com/mehranmohammadiii/Resume-Project-with-Django-and-Docker/blob/master/screenshots/Screenshot%20from%202025-11-05%2012-58-35.png" alt="Main Page Screenshot" width="30%">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="URL_TO_YOUR_SECOND_PAGE_IMAGE" alt="Second Page Screenshot" width="45%">
+  <img src="https://github.com/mehranmohammadiii/Resume-Project-with-Django-and-Docker/blob/master/screenshots/Screenshot%20from%202025-11-05%2012-58-50.png" alt="Second Page Screenshot" width="30%">
+    <img src="https://github.com/mehranmohammadiii/Resume-Project-with-Django-and-Docker/blob/master/screenshots/Screenshot%20from%202025-11-05%2012-59-00.png" alt="Second Page Screenshot" width="30%">
+
 </p>
 
 A full-stack, containerized personal resume and portfolio application. This project features a **Django** backend serving a REST API, a **React** frontend for a dynamic user experience, and a **PostgreSQL** database for data persistence. The entire stack is orchestrated using **Docker Compose** for a seamless, one-command setup.
