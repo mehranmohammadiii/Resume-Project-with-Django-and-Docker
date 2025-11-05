@@ -86,5 +86,3 @@ Make sure you have Git and Docker (with Docker Compose) installed on your system
     ```sh
     docker compose down
     ```
-
----
